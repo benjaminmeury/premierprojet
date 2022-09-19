@@ -1,6 +1,6 @@
 Hey, I'm benjamin ! 👋
 
-⚡ Web designer / Integrateur web
+⚡ Web designer
 ⚛ PHP • Javascript • Node.js 
 
 💻 Student from MyDigitalSchool
@@ -8,6 +8,6 @@ Hey, I'm benjamin ! 👋
 Find me elsewhere 🌎
 
 🚀 Site : Soon
-🖱 Behance : soon
-📸 Dribbble : soon
+🖱 Behance : Soon
+📸 Dribbble : Soon
 💼 LinkedIn : https://fr.linkedin.com/in/benjamin-meury?trk=public_profile_browsemap
