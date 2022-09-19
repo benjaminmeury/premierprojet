@@ -1,6 +1,13 @@
-#Bonsoir je m'appelle Benjamin j'aime les calories.
+Hey, I'm benjamin ! 👋
 
-```
-Je fais du design
+⚡ Web designer / Integrateur web
+⚛ PHP • Javascript • Node.js 
 
-```
+💻 Student from MyDigitalSchool
+
+Find me elsewhere 🌎
+
+🚀 Site : Soon
+🖱 Behance : soon
+📸 Dribbble : soon
+💼 LinkedIn : https://fr.linkedin.com/in/benjamin-meury?trk=public_profile_browsemap
